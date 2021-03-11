@@ -10,7 +10,7 @@ Github: [https://github.com/Leonora-cat github.com/Leonora-cat]
 ~~~
 
 == About me
-I am a 3rd year undergraduate student from Xi'an Jiaotong-Liverpool University, majoring in Information and Computing Science(confusing major name because what we learn is actually Computer Science), Department of Intelligent Science, School of Advanced Technology.\n
+I am a 3rd year undergraduate student from Xi'an Jiaotong-Liverpool University, majoring in Information and Computing Science (it is a confusing major name because what we learn is actually Computer Science), Department of Intelligent Science, School of Advanced Technology.\n
 - Rank: 1 / 290
 - Overall GPA: 3.99 / 4.0
 - Major GPA: 4.0 / 4.0
@@ -63,7 +63,16 @@ October 2020 – December 2020\n
 During this coursework, I developed a file synchronization program for large efficient file transfer among different nodes. This project achieves the functions of synchronization of new and updated files, and the resumption of transfer from interruption. Each node runs with the same codes.\n
 
 - Developed a file transfer program using Python based TCP socket programming
-- Enabled the same behavior of nodes and simultaneous transfer among them using multithreading and multiprocessing\n
+- Enabled the same behavior of nodes and simultaneous transfer among them using multithreading and multiprocessing\n\n
+
+*MNIST Handwritten Digit Classification*\n
+/MOOC Coursework/\n
+December 2019\n
+
+During this coursework, I Developed a CNN model to predict handwritten digits 0-9 on MNIST dataset.\n
+
+- Learned some basics of Machine Learning
+- Practiced Tensorflow 1.x 
 
 == Skills
 - Python, Java, C, C\++, HTML\/CSS/\JavaScript, SQL, MongoDB
