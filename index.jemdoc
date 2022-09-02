@@ -1,0 +1,128 @@
+# jemdoc: menu{MENU}{index.html}, nofooter  
+==Junru Liu
+
+~~~
+{}{img_left}{img/me.jpg}{photo}{164}{200}{}
+4th year undergraduate student in Computer Science,\n [https://www.xjtlu.edu.cn/en/study/departments/school-of-advanced-technology/ School of Advanced Technology], \n[https://www.xjtlu.edu.cn/en/ Xi'an Jiaotong-Liverpool University (XJTLU)]\n\n
+Email: [Junru.Liu18@student.xjtlu.edu.cn]\n
+LinkedIn: [https://www.linkedin.com/in/junru-liu-3172581a9/ linkedin.com\/in\/junru-liu]\n
+Github: [https://github.com/Leonora-cat github.com/Leonora-cat]\n\n
+[CV_Junru_Liu.pdf CV]\n
+[XJTLU_Academic_Transcript.pdf Current Academic Records at XJTLU]\n
+[UoL_Interim_Transcript.pdf Interim Academic Records at UoL]
+~~~
+
+== About me
+I am a 4th year undergraduate student from Xi'an Jiaotong-Liverpool University, majoring in Information and Computing Science, Department of Intelligent Science, School of Advanced Technology.\n
+- Major: Information and Computing Science(It is a confusing major name because what we learn is actually Computer Science)
+- Rank: Year 1: 1 \/ 173, Year 2: 1 \/ 430, Year 3: 5 \/ 286 
+- GPA: 4.0 / 4.0
+
+== Research Interest
+My research interests include 
+- Natural Language Processing  
+- Machine Learning and Deep Learning
+- Data Mining
+
+== Research Experience
+*Summer Interniship*\n
+/Pennsylvania State University/\n
+April 2021 - Present\n
+
+We are working on the project of multilingual semantic parsing, which involves turning sentences in multiple natural languages to logical forms, such as, SQL, Prolog, and Funql.\n
+
+- Processed different datasets into a uniform format to publish a unified dataset for cross-lingual semantic parsing
+- Conducted literature review to select SOTA cross-lingual semantic parsing transfer models with typical methodologies
+- Demonstrated and analyzed performance gap of selected models on the unified dataset comparing different languages \n\n
+
+*Research Assistant*\n
+/Knowledge and Wisdom Lab at Xi'an Jiaotong-Liverpool University/\n
+October 2020 - Present\n
+
+We are developing an intelligent policy management system which provides services such as policy queries and policy analysis. We work on this project in collaboration with China Telecom, Beijing.\n
+
+- Worked with Beijing Telecom to build an intelligent policy management system for policy query and analysis
+- Developed the policy query module using whoosh based inverted index to support policy search through keywords
+- Implemented the policy analysis module using LDA model to evaluate the policy topics
+- Deployed the system on a server to support public access
+- Currently working on the relation extraction using GCN
+
+== Work Experience
+*NLP Engineer Internship*\n
+/Shanghai Ideal Information Industry(Group) Co.,Ltd/\n
+June 2020 – September 2020\n
+
+During this internship, I worked in the center of research and developement at IDEAL, which was repsonsible for the 12345 hotline service in Shanghai. I explored some traditional techniques to complete some NLP tasks and provided analysis of ticket data.\n
+
+- Classified citizen complaints to various categories using text similarity techniques to assess municipal services
+- Developed a question and answering system with text similarity techniques to support intelligent citizen hotline
+- Established a web page which enables users to extract keywords in a document with 4 supported methods online \n\n
+
+*Frontend Developer Internship*\n
+/Emerson Electric (China) Holdings Co., Ltd./\n
+July 2020 – September 2020\n
+
+During this internship, I led a team to develop a Wechar mini program for Emerson to collect feedback from its customers and manage database. I mainly focuses on the frontend development and project management.\n
+
+- Led a team to develop a Wechat mini program that supports customers to submit their maintenance requirements and
+administrators to manage submitted maintenance orders
+- Designed the user interface of the mini program to avoid repeated user input when logging in afterwards
+- Developed the interaction between frontend and backend to support fast and correct data exchange
+
+== Projects
+*Second-hand Item Information Exchange Platform*\n
+/University Coursework/\n
+Spetember 2021 – December 2021\n
+
+During this coursework, we developed an information exchange platform for second-hand items at XJTLU based on Spring Boot and Vue in Scrum process.\n
+
+- Led a team to create a web application for university students to sell/buy second-hand items in scrum process
+- Developed user registration and product information display modules using Spring Boot and MyBatis to write user data
+into the database and pass the product data in the database to users
+- Tested the interface of password retrieval and product upload using JUnit to check that the code pass both normal and corner test cases\n\n
+
+*Large Efficient Flexible and Trusty (LEFT) Files Sharing System*\n
+/University Coursework/\n
+October 2020 – December 2020\n
+
+During this coursework, I developed a file synchronization program for large efficient file transfer among different nodes. This project achieves the functions of synchronization of new and updated files, and the resumption of transfer from interruption. Each node runs with the same codes.\n
+
+- Constructed a distributed file sharing application to support file synchronization among multiple peer nodes
+- Designed a new protocol based on TCP to achieve the fast synchronization of new and updated files among nodes despite the large file size
+- Developed the encryption function during file transfer to increase data security\n\n
+
+*Multi-class Sentiment Analysis*\n
+/Self-learning Project/\n
+February 2021\n
+
+During this project, I developed a CNN model to classify questions into 6 categories.\n
+
+- Practiced sentiment analysis
+- Learned PyTorch\n\n
+
+*MNIST Handwritten Digit Classification*\n
+/MOOC Coursework/\n
+December 2019\n
+
+During this coursework, I Developed a CNN model to predict handwritten digits 0-9 on MNIST dataset.\n
+
+- Learned some basics of Machine Learning
+- Practiced Tensorflow 1.x 
+
+== Skills
+- Python, Java, C, C\++, HTML\/CSS/\JavaScript, SQL, MongoDB
+- PyTorch, Tensorflow, Spring Boot
+- Linux, PyMongo, Pandas, NumPy, Matplotlib, Plotly, Request, Flask, OpenCV
+
+
+== Courses
+- At University:\n
+/Calculus \/ Linear Algebra \/ Discrete Mathematics and Statistics \/ Java \/ Database \/ Data Structures \/ Computer Systems \/ Operating Systems Concepts \/ Algorithm \/ Computer Networking \/ Software Engineering \/ Decision Computation and Language(Automaton) \/ Machine Learning \/ Biocomputation \/ Big Data Analytics
+- Self Learning:\n
+Python \/ C \/ C\++ \/ Probability and Statistics \/ Tensorflow \/ Pytorch \/ CS224n (ongoing)
+
+== Languages
+- Chinese: natively fluent
+- Engligh: language of instruction at university\n ~~~~~~~~~~~~~~~~CEFR C1\n     ~~~~~~~~~~~~~~~~TOEFL 109\n     ~~~~~~~~~~~~~~~~GRE 325+3\n
+- Spanish: CEFR A2
+
